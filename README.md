@@ -4,7 +4,7 @@
 
 塾講師と生徒のマッチングアプリです
 
-URL:demo.cramee.link
+[デモページ](https://cramee.link) #開発中
 
 デモ用アカウント情報
 
