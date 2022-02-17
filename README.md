@@ -44,7 +44,7 @@
 - cloudformation
 
 構成
-<img width="1127" alt="スクリーンショット 2022-02-17 0 55 46" src="https://user-images.githubusercontent.com/49385552/154303633-9d26efd8-dd7c-40c5-bc73-4688b9f8b37a.png">
+<img width="1198" alt="スクリーンショット 2022-02-17 10 35 29" src="https://user-images.githubusercontent.com/49385552/154387414-e7722190-32a5-48f5-b4d9-0ae99e41ac5a.png">
 
 ### web UI
 
